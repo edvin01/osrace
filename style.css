@@ -17,7 +17,7 @@
   padding-left: 30%;
   padding-right: 31%;
   margin-left: 15%;
-  margin-top: 4.5%;
+  margin-top: 6.5%;
 }
 #btn-2 {
   font-family: 'Calistoga', cursive;
@@ -48,18 +48,18 @@
 }
 @media (min-width: 270px) {
   #carouselExampleIndicators {
-    height: 23vh;
+    height: 24vh;
   }
   .carousel-indicators {
-    height: 23vh;
+    height: 24vh;
   }
  }
  @media (min-width: 310px){
    #carouselExampleIndicators {
-     height: 25vh;
+     height: 26vh;
    }
    .carousel-indicators {
-     height: 25vh;
+     height: 26vh;
    }
    #btn-1 {
      margin-left: 11%;
@@ -71,12 +71,12 @@
  }
 @media (min-width: 340px) {
   #carouselExampleIndicators {
-    height: 27vh;
+    height: 28vh;
   }
  }
  @media (min-width: 370px) {
    #carouselExampleIndicators {
-     height: 30vh;
+     height: 31vh;
    }
    #btn-4 {
      padding-right: 22%;
@@ -84,7 +84,7 @@
   }
   @media (min-width: 420px) {
     #carouselExampleIndicators {
-      height: 33vh;
+      height: 34vh;
     }
     .carousel-indicators {
       height: 33vh;
