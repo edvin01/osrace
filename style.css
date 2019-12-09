@@ -1,0 +1,359 @@
+.nav-link {
+  margin-left: 70px;
+}
+.carousel-inner {
+  height: 60vh;
+}
+.d-block w-100 {
+  height: 60vh;
+}
+#carouselExampleIndicators {
+  height: 20vh;
+}
+
+#btn-1 {
+  font-family: 'Calistoga', cursive;
+  padding: 4%;
+  padding-left: 30%;
+  padding-right: 31%;
+  margin-left: 15%;
+  margin-top: 4.5%;
+}
+#btn-2 {
+  font-family: 'Calistoga', cursive;
+  padding: 4%;
+  padding-left: 30%;
+  padding-right: 34%;
+  margin-left: 11%;
+  margin-top: 2%;
+}
+#btn-3 {
+  font-family: 'Calistoga', cursive;
+  padding: 4%;
+  padding-left: 30%;
+  padding-right: 30%;
+  margin-left: 11%;
+  margin-top: 2%;
+}
+#btn-4 {
+  font-family: 'Calistoga', cursive;
+  padding: 4%;
+  padding-left: 30%;
+  padding-right: 21%;
+  margin-left: 11%;
+  margin-top: 2%;
+}
+.osrace {
+  margin-top: 1%;
+}
+@media (min-width: 270px) {
+  #carouselExampleIndicators {
+    height: 23vh;
+  }
+  .carousel-indicators {
+    height: 23vh;
+  }
+ }
+ @media (min-width: 310px){
+   #carouselExampleIndicators {
+     height: 25vh;
+   }
+   .carousel-indicators {
+     height: 25vh;
+   }
+   #btn-1 {
+     margin-left: 11%;
+   }
+   .osrace {
+     height: 20px;
+     margin-left: 20%;
+   }
+ }
+@media (min-width: 340px) {
+  #carouselExampleIndicators {
+    height: 27vh;
+  }
+ }
+ @media (min-width: 370px) {
+   #carouselExampleIndicators {
+     height: 30vh;
+   }
+   #btn-4 {
+     padding-right: 22%;
+   }
+  }
+  @media (min-width: 420px) {
+    #carouselExampleIndicators {
+      height: 33vh;
+    }
+    .carousel-indicators {
+      height: 33vh;
+    }
+    #btn-4 {
+      padding-right: 23%;
+    }
+   }
+   @media (min-width: 450px) {
+     #carouselExampleIndicators {
+       height: 36vh;
+     }
+     .carousel-indicators {
+       height: 36vh;
+     }
+     #btn-2 {
+       margin-left: 13%;
+     }
+     #btn-3 {
+       margin-left: 13%;
+     }
+     #btn-4 {
+       margin-left: 13%;
+       padding-right: 24%;
+     }
+     #btn-1 {
+       margin-left: 13%;
+     }
+     .osrace {
+       height: 30px;
+       margin-left: 20%;
+     }
+    }
+    @media (min-width: 500px) {
+      #carouselExampleIndicators {
+        height: 39vh;
+      }
+      .carousel-indicators {
+        height: 39vh;
+      }
+      #btn-2 {
+        padding-right: 33%;
+      }
+      .osrace {
+        height: 40px;
+        margin-left: 12%;
+      }
+     }
+     @media (min-width: 540px) {
+       #carouselExampleIndicators {
+         height: 42vh;
+       }
+       .carousel-indicators {
+         height: 42vh;
+       }
+      }
+      @media (min-width: 592px) {
+        #btn-1 {
+          margin-left: 6%;
+          padding: 2%;
+          padding-left: 14%;
+          padding-right: 14%;
+        }
+        #btn-2 {
+          margin-top: 5%;
+          padding: 2%;
+          padding-left: 15%;
+          padding-right: 15%;
+        }
+        #btn-3 {
+          margin-left: 6%;
+          padding: 2%;
+          padding-left: 14%;
+          padding-right: 14%;
+        }
+        #btn-4 {
+          margin-top: 4%;
+          padding: 2%;
+          padding-left: 10%;
+          padding-right: 12%;
+        }
+        #carouselExampleIndicators {
+          height: 45vh;
+        }
+        .carousel-indicators {
+          height: 45vh;
+        }
+       }
+       @media (min-width: 630px) {
+         #carouselExampleIndicators {
+           height: 48vh;
+         }
+         .carousel-indicators {
+           height: 48vh;
+         }
+         #btn-1 {
+           margin-left: 8%;
+           padding: 3%;
+           padding-left: 16%;
+           padding-right: 16%;
+         }
+         #btn-2 {
+           margin-left: 3%;
+           margin-top: 5%;
+           padding: 3%;
+           padding-left: 17%;
+           padding-right: 17%;
+         }
+         #btn-3 {
+           margin-left: 8%;
+           padding: 3%;
+           padding-left: 16%;
+           padding-right: 16%;
+         }
+         #btn-4 {
+           margin-left: 3%;
+           margin-top: 3.2%;
+           padding: 3%;
+           padding-left: 12%;
+           padding-right: 14%;
+         }
+         .osrace {
+           height: 50px;
+           margin-left: 10%;
+         }
+        }
+        @media (min-width: 670px) {
+          #carouselExampleIndicators {
+            height: 51vh;
+          }
+          .carousel-indicators {
+            height: 51vh;
+          }
+          #btn-4 {
+            padding-right: 15%;
+          }
+         }
+         @media (min-width: 720px) {
+           #carouselExampleIndicators {
+             height: 54vh;
+           }
+           .carousel-indicators {
+             height: 54vh;
+           }
+           #btn-4 {
+             padding-right: 15.4%;
+           }
+           .osrace {
+             height: 50px;
+             margin-left: 17%;
+           }
+          }
+          @media (min-width: 760px) {
+            #carouselExampleIndicators {
+              height: 57vh;
+            }
+            .carousel-indicators {
+              height: 57vh;
+            }
+           }
+           @media (min-width: 970px) {
+             #carouselExampleIndicators {
+               height: 57vh;
+             }
+             .carousel-indicators {
+               height: 57vh;
+             }
+             #btn-3 {
+               margin-left: 10%;
+             }
+             #btn-1 {
+               margin-left: 10%;
+             }
+             #btn-4 {
+               margin-top: 2%;
+               padding-right: 17%;
+             }
+             .osrace {
+               height: 50px;
+               margin-left: 27%;
+             }
+           }
+           @media (min-width: 1080px) {
+             #carouselExampleIndicators {
+               height: 56vh;
+             }
+             .carousel-indicators {
+               height: 56vh;
+             }
+             #btn-1 {
+               margin-left: 8%;
+               padding: 2%;
+               padding-left: 5%;
+               padding-right: 5%;
+             }
+             #btn-2 {
+               margin-left: 9%;
+               padding: 2%;
+               padding-left: 5%;
+               padding-right: 5%;
+             }
+             #btn-3 {
+               margin-left: 7%;
+               margin-top: 5%;
+               padding: 2%;
+               padding-left: 5%;
+               padding-right: 5%;
+             }
+             #btn-4 {
+               margin-left: 7%;
+               margin-top: 5%;
+               padding: 2%;
+               padding-left: 5%;
+               padding-right: 5%;
+             }
+            }
+            @media (min-width 1200px) {
+              #carouselExampleIndicators {
+                height: 56vh;
+              }
+              .carousel-indicators {
+                height: 56vh;
+              }
+              #btn-1 {
+                margin-left: 20%;
+              }
+            }
+            @media (min-width: 1300px) {
+              #carouselExampleIndicators {
+                height: 56vh;
+              }
+              .carousel-indicators {
+                height: 56vh;
+              }
+              #btn-1 {
+                margin-left: 10%;
+              }
+              .osrace {
+                height: 70px;
+                margin-left: 30%;
+              }
+            }
+            @media (min-width 1540px) {
+            #carouselExampleIndicators {
+              height: 56vh;
+            }
+            .carousel-indicators {
+              height: 56vh;
+            }
+            #btn-1 {
+              margin-left: 14%;
+            }
+            .osrace {
+              height: 70px;
+              margin-left: 80%;
+            }
+          }
+            @media (min-width 1500px) {
+              #carouselExampleIndicators {
+                height: 56vh;
+              }
+              .carousel-indicators {
+                height: 56vh;
+              }
+              #btn-1 {
+                margin-left: 14%;
+              }
+              .osrace {
+                height: 70px;
+                margin-left: 60%;
+              }
+            }
